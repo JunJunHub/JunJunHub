@@ -11,6 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)]()
 -->
 
 
@@ -22,8 +26,8 @@ Here are some ideas to get you started:
 😄很高兴你点开了我的主页
 
 - 🔭 我是一个后端工程师
-- 🌱 开源了两个仓库：austin和athena
-- 👯 维护了两个公众号：Java3y和对线面试官
+- 🌱 开源了两个自用仓库
+- 👯 维护了两个公众号：**Java3y**和**对线面试官**
 - 📫 你可以通过微信搜**Sco-JunJun-TUT**联系我
 - ⚡ 希望我写下的东西能帮助到你
 
@@ -37,16 +41,12 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:520familylyj@gmail.com)
 
 - 🚀 I use daily:
-  [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)]()
-  [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)]()
   [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)]()
   [![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)]()
   [![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)]()
-  [![Webpack](https://img.shields.io/badge/-webpack-2B3A42?logo=webpack&logoColor=75AFCC)]()
-  [![NPM](https://img.shields.io/badge/-NPM-2875E3?logo=npm&logoColor=029137)]()
   [![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)]()
   [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)]()
-  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)]()
+  
 
 - 💻 I work using:
   [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)]()
@@ -62,7 +62,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
   [![MySQL](https://img.shields.io/badge/-MySQL-336791?style=plastic&logo=mysql)]()
 
 
-Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/zhenorzz/count.svg)]() visitor, Thank You!🎉🎉
+Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/JunJunHub/count.svg)]() visitor, Thank You!🎉🎉
 
 
 [<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunJunHub&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=JunJunHub&count_private=true&show_icons=true" height=145/></span>]()
