@@ -1,5 +1,5 @@
 <!--
-**xiaojunjun-li/xiaojunjun-li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JunJunHub/JunJunHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### _Hi there 👋, I'm JunJun._
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ZhongFuCheng3y&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JunJunHub&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 
 😄很高兴你点开了我的主页
@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 - 🔭 我是一个后端工程师
 - 🌱 开源了两个仓库：austin和athena
 - 👯 维护了两个公众号：Java3y和对线面试官
-- 📫 你可以通过微信搜**Java3y**联系我
+- 📫 你可以通过微信搜**Sco-JunJun-TUT**联系我
 - ⚡ 希望我写下的东西能帮助到你
 
 
 <link rel="stylesheet" type="text/css" href="./beautiful.css">
 
-### _Hi there 👋, I'm Zhenorzz._
+### _这是我的简介_
 
 I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here -
 
@@ -58,16 +58,14 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 
 - ⚙️ I also use and work:
   [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)]()
-  [![PHP](https://img.shields.io/badge/php-20232A?logo=php&logoColor=61DAFB)]()
+  [![PYTHO](https://img.shields.io/badge/php-20232A?logo=php&logoColor=61DAFB)]()
   [![MySQL](https://img.shields.io/badge/-MySQL-336791?style=plastic&logo=mysql)]()
-  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)]()
-  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)]()
 
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/zhenorzz/count.svg)]() visitor, Thank You!🎉🎉
 
 
-[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenorzz&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=zhenorzz&count_private=true&show_icons=true" height=145/></span>]()
+[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunJunHub&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=JunJunHub&count_private=true&show_icons=true" height=145/></span>]()
 
 
 ### My Skill Set
