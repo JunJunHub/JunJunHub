@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 😄很高兴你点开了我的主页
 
 - 🔭 我是一个后端工程师
-- 🌱 开源了两个自用仓库
-- 👯 维护了两个公众号：**Java3y**和**对线面试官**
+- 🌱 开源了两个自用仓库：**C-Project**、**Go-Project**
+- 👯 维护了两个公众号：**JunJun**、**猿神**
 - 📫 你可以通过微信搜**Sco-JunJun-TUT**联系我
 - ⚡ 希望我写下的东西能帮助到你
 
